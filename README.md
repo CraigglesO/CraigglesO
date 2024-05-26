@@ -30,7 +30,7 @@ I'm actively working on [Open S2](https://github.com/Open-S2) - Modern tools bui
 | ------------------------ | ------ | ----------------- | ---------------------------------------------------------------------------------------------- |
 | [s2maps-gpu]             | author | Typescript & Rust | High-performance, and GPU-accelerated map engine for rendering large-scale, interactive maps.  |
 | [open-vector-tile]       | author | Typescript & Rust | A new Vector Tile Spec that is backwards compatible with [mapbox-vector-tile].                 |
-| [earclip]                | author | Typescript        | Fast and small polygon triangulation library with builtin tesselation.                         |
+| [earclip]                | author | Typescript & Rust | Fast and small polygon triangulation library with builtin tesselation.                         |
 | [glyph-gen]              | author | Typescript & C++  | Build MSDF glyphs from fonts and icons sets to be rendered by a GPU.                           |
 | [pbf-rs]                 | author | Rust              | Zero dependency, `no_std`, lightweight and fast library for protobuffers.                      |
 | [unicode-shaper-rs]      | author | Rust              | Zero dep, `no_std`, light & fast library to prepare complex unicode patters for rendering.     |
@@ -50,7 +50,7 @@ I'm actively working on [Open S2](https://github.com/Open-S2) - Modern tools bui
 
 [s2maps-gpu]: https://github.com/Open-S2/s2maps-gpu
 [open-vector-tile]: https://github.com/Open-S2/open-vector-tile
-[earclip]: https://github.com/S2-Maps/earclip
+[earclip]: https://github.com/Open-S2/earclip
 [glyph-gen]: https://github.com/Open-S2/glyph-gen
 [pbf-rs]: https://github.com/Open-S2/pbf-rs
 [unicode-shaper-rs]: https://github.com/Open-S2/unicode-shaper-rust
