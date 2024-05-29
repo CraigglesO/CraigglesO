@@ -34,6 +34,7 @@ I'm actively working on [Open S2](https://github.com/Open-S2) - Modern tools bui
 | [glyph-gen]              | author | Typescript & C++  | Build MSDF glyphs from fonts and icons sets to be rendered by a GPU.                           |
 | [pbf-rs]                 | author | Rust              | Zero dependency, `no_std`, lightweight and fast library for protobuffers.                      |
 | [unicode-shaper-rs]      | author | Rust              | Zero dep, `no_std`, light & fast library to prepare complex unicode patters for rendering.     |
+| [s2-pmtiles]             | author | Typescript & Rust | This library reads/writes PMTiles V3.0 as well as S2PMTiles V1.0                               |
 
 </br>
 </br>
@@ -54,6 +55,7 @@ I'm actively working on [Open S2](https://github.com/Open-S2) - Modern tools bui
 [glyph-gen]: https://github.com/Open-S2/glyph-gen
 [pbf-rs]: https://github.com/Open-S2/pbf-rs
 [unicode-shaper-rs]: https://github.com/Open-S2/unicode-shaper-rust
+[s2-pmtiles]: https://github.com/Open-S2/s2-pmtiles
 [mapbox-vector-tile]: https://github.com/mapbox/vector-tile-js
 
 [helix]: https://github.com/helix-editor/helix
