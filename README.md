@@ -35,6 +35,7 @@ I'm actively working on [Open S2](https://github.com/Open-S2) - Modern tools bui
 | [pbf-rs]                 | author | Rust              | Zero dependency, `no_std`, lightweight and fast library for protobuffers.                      |
 | [unicode-shaper-rs]      | author | Rust              | Zero dep, `no_std`, light & fast library to prepare complex unicode patters for rendering.     |
 | [s2-pmtiles]             | author | Typescript & Rust | This library reads/writes PMTiles V3.0 as well as S2PMTiles V1.0                               |
+| [s2json]                 | author | Typescript & Rust | S2JSON is a new standard build ontop of [GeoJSON] including 3D and S2 Geometry.                |
 
 </br>
 </br>
@@ -57,6 +58,7 @@ I'm actively working on [Open S2](https://github.com/Open-S2) - Modern tools bui
 [unicode-shaper-rs]: https://github.com/Open-S2/unicode-shaper-rust
 [s2-pmtiles]: https://github.com/Open-S2/s2-pmtiles
 [mapbox-vector-tile]: https://github.com/mapbox/vector-tile-js
+[s2json]: https://github.com/Open-S2/s2json
 
 [helix]: https://github.com/helix-editor/helix
 [monkeytype]: https://github.com/monkeytypegame/monkeytype
