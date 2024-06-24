@@ -66,6 +66,8 @@ I'm actively working on [Open S2](https://github.com/Open-S2) - Modern tools bui
 [Spyglass]: https://github.com/spyglass-search/spyglass
 [hyperfine]: https://github.com/sharkdp/hyperfine
 
+[GeoJSON]: https://geojson.org/
+
 </br>
 </br>
 
