@@ -5,7 +5,7 @@
   <img width="180px" src="https://github.com/CraigglesO/CraigglesO/assets/5249140/e101f98e-d8ea-4fd2-941a-a8d0360b5b5b"></img>
 
   <h3>
-    <strong>Hello, I am Craig O'Connor 🤙</strong>
+    <strong>Hello, I am Craig O'Connor ⏳</strong>
   </h3>
   <strong><a href="http://ipa-reader.xyz/?text=kre%C9%AA%C9%A1%20o%CA%8A%CB%88k%C9%92n%C9%99r">/kreɪɡ oʊˈkɒnər/</a></strong>
 </div>
@@ -29,7 +29,7 @@ I'm actively working on [Open S2](https://github.com/Open-S2) - Modern tools bui
 | Project                  | Role   | Languages         | Description                                                                                    |
 | ------------------------ | ------ | ----------------- | ---------------------------------------------------------------------------------------------- |
 | [s2maps-gpu]             | author | Typescript & Rust | High-performance, and GPU-accelerated map engine for rendering large-scale, interactive maps.  |
-| [s2-tools]               | author | Typescript & Rust | A collection of geospatial tools primarily designed for WGS84, Web Mercator, and S2.           |
+| [gis-tools]               | author | Typescript & Rust | A collection of geospatial tools primarily designed for WGS84, Web Mercator, and S2.           |
 | [open-vector-tile]       | author | Typescript & Rust | A new Vector Tile Spec that is backwards compatible with [mapbox-vector-tile].                 |
 | [earclip]                | author | Typescript & Rust | Fast and small polygon triangulation library with builtin tesselation.                         |
 | [glyph-gen]              | author | Typescript & C++  | Build MSDF glyphs from fonts and icons sets to be rendered by a GPU.                           |
@@ -52,7 +52,7 @@ I'm actively working on [Open S2](https://github.com/Open-S2) - Modern tools bui
 | [hyperfine]              | Rust              | A command-line benchmarking tool.                                               |
 
 [s2maps-gpu]: https://github.com/Open-S2/s2maps-gpu
-[s2-tools]: https://github.com/Open-S2/s2-tools
+[gis-tools]: https://github.com/Open-S2/gis-tools
 [open-vector-tile]: https://github.com/Open-S2/open-vector-tile
 [earclip]: https://github.com/Open-S2/earclip
 [glyph-gen]: https://github.com/Open-S2/glyph-gen
